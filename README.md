@@ -66,6 +66,8 @@ $ exit
 
 $ cls
 
+```
+
 ### Contributions
 - Contributions are welcome. Please open an issue or a pull request to discuss any changes you would like to make.
 
